@@ -1,8 +1,6 @@
 clear;
 
-addpath(genpath('E:\Dropbox\5664_Biomedical_Signal_Processing\Project')) % win
-
-%addpath(genpath('/Users/sg/Dropbox/5664_Biomedical_Signal_Processing/')) % mac
+addpath(genpath('')) %
 
 %%
 load('MAR_data.mat')
