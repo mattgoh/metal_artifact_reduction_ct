@@ -1,0 +1,25 @@
+100 keV x-ray mass attenuation coeffients per material density (mu/rho) measured in (cm*cm/g)
+
+bone: 
+	http://physics.nist.gov/PhysRefData/XrayMassCoef/ComTab/bone.html
+	mu/rho = 1.855E-01 (cm2/g)
+	rho = 1.9 (g/cm3) 
+	mu = 0.352 (1/cm)
+		
+
+
+brain white/grey matter:
+	http://physics.nist.gov/PhysRefData/XrayMassCoef/ComTab/brain.html
+	mu/rho = 1.701E-01 (cm2/g)
+		grey matter:
+			rho = 1.00 (g/cm3)
+			mu = 0.170 (1/cm)
+		white matter:
+			rho = 1.20 (g/cm3)
+			mu = 0.204 (1/cm)
+
+iron:
+	http://physics.nist.gov/PhysRefData/XrayMassCoef/ElemTab/z26.html
+	mu/rho = 3.717E-01 (cm2/g)
+	rho = 7.8 (g/cm3)
+	mu = 2.90 (1/cm)
