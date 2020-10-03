@@ -7,4 +7,20 @@ Briefly, x-ray computed tomography (CT) measures the x-ray attenuation along a l
 
 Reduction of these artifacts has been the topic of much effort in the field of medical imaging. If an effective algorithm can be designed to remove these star artifacts, the quality of medical images can be dramatically improved for cases in which the OUT includes metal. Specifically, this would allow for improved CT scans in patients with metal pins, clips, splints, shrapnel/bullets, or implanted medical devices.
 
-The aim of this project was to study and compare several metal artifact reduction methods: 1) sinogram interpolation, and 2) gradient descent with image segmentation.
+The aim of this project was to study and compare several metal artifact reduction methods:
+
+1. sinogram interpolation
+
+2. gradient descent with image segmentation.
+
+## Results
+
+Original image
+![](examples/TestCT.png)
+
+Filtered Image
+![](examples/TestCT_filtered.png)
+
+Filtered and segmented
+
+![](examples/TestCT_filtered_and_segmented.png)
