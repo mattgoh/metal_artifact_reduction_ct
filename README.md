@@ -16,9 +16,11 @@ The aim of this project was to study and compare several metal artifact reductio
 ## Results
 
 Original image
+
 ![](examples/TestCT.png)
 
 Filtered Image
+
 ![](examples/TestCT_filtered.png)
 
 Filtered and segmented
